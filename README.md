@@ -1,4 +1,5 @@
-![image](https://github.com/AlphaAutoLeak/c-lock-evaluation/blob/master/1.gif)
+---
+![image](https://github.com/AlphaAutoLeak/c-lock-evaluation/blob/master/1.png)
 ---
 
 ## Introduction :trollface
