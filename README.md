@@ -1,5 +1,5 @@
 ---
-![image](https://github.com/AlphaAutoLeak/c-lock-evaluation/blob/master/1.png)
+![image](https://github.com/AlphaAutoLeak/c-lock-evaluation/blob/main/1.png?raw=true)
 ---
 
 ## Introduction
