@@ -1,4 +1,7 @@
+## ida流程图
+![image](https://github.com/AlphaAutoLeak/c-lock-evaluation/blob/main/2.png?raw=true)
 ---
+## 乐子
 ![image](https://github.com/AlphaAutoLeak/c-lock-evaluation/blob/main/1.png?raw=true)
 ---
 
